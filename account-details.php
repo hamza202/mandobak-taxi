@@ -42,7 +42,7 @@
             <div class="m-subheader ">
                 <div class="d-flex align-items-center">
                     <div class="mr-auto">
-                        <h3 class="m-subheader__title text-capitalize ">Order Details </h3>
+                        <h3 class="m-subheader__title text-capitalize ">Account Details </h3>
                     </div>
                 </div>
             </div>
@@ -71,12 +71,12 @@
                                                     <div class="m-timeline-3__item-desc">
                                                  <span class="m-timeline-3__item-user-name">
                                                     <span class="m-link m-link--metal m-timeline-3__item-link">
-                                                        Order Type:
+                                                        Name:
                                                     </span>
                                                 </span>
                                                         <br>
                                                         <span class="m-timeline-3__item-text">
-                                                    Order Type1
+                                                    Hamza Abo aitah
                                                 </span>
 
                                                     </div>
@@ -87,12 +87,12 @@
                                                     <div class="m-timeline-3__item-desc">
                                                  <span class="m-timeline-3__item-user-name">
                                                     <span class="m-link m-link--metal m-timeline-3__item-link">
-                                                        Delegate Name:
+                                                        Phone:
                                                     </span>
                                                 </span>
                                                         <br>
                                                         <span class="m-timeline-3__item-text">
-                                                    hamza fdfds sdf
+                                                    0123456789
                                                 </span>
 
                                                     </div>
@@ -105,12 +105,12 @@
                                                     <div class="m-timeline-3__item-desc">
                                                 <span class="m-timeline-3__item-user-name">
                                                     <span class="m-link m-link--metal m-timeline-3__item-link">
-                                                        Recipient name:
+                                                        Email:
                                                     </span>
                                                 </span>
                                                         <br>
                                                         <span class="m-timeline-3__item-text">
-                                                    khaled mohammed
+                                                    info@hotmail.com
                                                 </span>
                                                     </div>
                                                 </div>
@@ -120,111 +120,70 @@
                                                     <div class="m-timeline-3__item-desc">
                                                     <span class="m-timeline-3__item-user-name">
                                                         <span class="m-link m-link--metal m-timeline-3__item-link">
-                                                            Recipient Phone:
+                                                            Car type
                                                         </span>
                                                     </span>
                                                         <br>
                                                         <span class="m-timeline-3__item-text">
-                                                        0123456789
+                                                        mercedes
                                                     </span>
                                                     </div>
                                                 </div>
 
-                                            </div>
-
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <div class="m-timeline-3__item m-timeline-3__item--info">
-                                                    <div class="m-timeline-3__item-desc">
-                                                 <span class="m-timeline-3__item-user-name">
-                                                    <span class="m-link m-link--metal m-timeline-3__item-link">
-                                                        Delivery location:
-                                                    </span>
-                                                </span>
-                                                        <br>
-                                                        <span class="m-timeline-3__item-text">
-                                                    Delivery location
-                                                </span>
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="m-timeline-3__item m-timeline-3__item--warning">
-                                                    <div class="m-timeline-3__item-desc">
-                                                 <span class="m-timeline-3__item-user-name">
-                                                    <span class="m-link m-link--metal m-timeline-3__item-link">
-                                                        Receiving location:
-                                                    </span>
-                                                </span>
-                                                        <br>
-                                                        <span class="m-timeline-3__item-text">
-                                                    Receiving location
-                                                </span>
-
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <div class="m-timeline-3__item m-timeline-3__item--brand">
+                                                <div class="m-timeline-3__item m-timeline-3__item--danger">
                                                     <div class="m-timeline-3__item-desc">
-                                                <span class="m-timeline-3__item-user-name">
-                                                    <span class="m-link m-link--metal m-timeline-3__item-link">
-                                                        Order status:
-                                                    </span>
-                                                </span>
-                                                        <br>
-                                                        <span class="m-timeline-3__item-text">
-                                                            status
+                                                        <span class="m-timeline-3__item-text d-block pt-2">
+                                                            Personal picture
                                                         </span>
                                                     </div>
                                                 </div>
+                                                <img class="img-fluid" src="assets/pic.jpg" alt="">
                                             </div>
                                             <div class="col-md-6">
-                                                <div class="m-timeline-3__item m-timeline-3__item--success">
+                                                <div class="m-timeline-3__item m-timeline-3__item--metal">
                                                     <div class="m-timeline-3__item-desc">
-                                                    <span class="m-timeline-3__item-user-name">
-                                                        <span class="m-link m-link--metal m-timeline-3__item-link">
-                                                            Car type:
-                                                        </span>
-                                                    </span>
-                                                        <br>
-                                                        <span class="m-timeline-3__item-text">
-                                                            type
+                                                        <span class="m-timeline-3__item-text d-block pt-2">
+                                                            Identity picture
                                                         </span>
                                                     </div>
                                                 </div>
-
+                                                <img class="img-fluid" src="assets/pic.jpg" alt="">
                                             </div>
-
+                                        </div>
+                                        <div class="row mt-4">
+                                            <div class="col-md-6">
+                                                <div class="m-timeline-3__item m-timeline-3__item--danger">
+                                                    <div class="m-timeline-3__item-desc">
+                                                        <span class="m-timeline-3__item-text d-block pt-2">
+                                                            Driving License Pic
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <img class="img-fluid" src="assets/pic.jpg" alt="">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="m-timeline-3__item m-timeline-3__item--metal">
+                                                    <div class="m-timeline-3__item-desc">
+                                                        <span class="m-timeline-3__item-text d-block pt-2">
+                                                            Vehicle Registration Pic
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <img class="img-fluid" src="assets/pic.jpg" alt="">
+                                            </div>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-12">
-                                                <div class="m-timeline-3__item m-timeline-3__item--info">
-                                                    <div class="m-timeline-3__item-desc">
-                                                <span class="m-timeline-3__item-user-name">
-                                                    <span class="m-link m-link--metal m-timeline-3__item-link">
-                                                        Order details:
-                                                    </span>
-                                                </span>
-                                                        <br>
-                                                        <span class="m-timeline-3__item-text">
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                                            Aliquam architecto cumque dicta dolores eaque iste sit.
-                                                            Debitis dicta dolor dolore eius, excepturi explicabo
-                                                            fugiat laboriosam maxime molestiae nemo odio veniam.
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                                            Aliquam architecto cumque dicta dolores eaque iste sit.
-                                                            Debitis dicta dolor dolore eius, excepturi explicabo
-                                                            fugiat laboriosam maxime molestiae nemo odio veniam.
-                                                        </span>
-                                                    </div>
-                                                </div>
+                                            <div class="col-12">
+                                                <form action="#" class="mt-4">
+                                                    <button type="submit" class="btn btn-success">Run the account</button>
+                                                    <button type="submit" class="btn btn-warning text-white">Stop the account</button>
+                                                    <button type="submit" class="btn btn-danger m_sweetalert_demo_8">Delete account</button>
+                                                </form>
                                             </div>
-
                                         </div>
                                     </div>
                                 </div>
@@ -259,104 +218,59 @@
 <?php include "javascript.php" ?>
 
 <!--begin::Page Vendors -->
-<script src="assets/demo/custom/crud/forms/validation/form-controls.js"></script>
 <script>
-    //Change file img
-    $(document).ready(function () {
+    //== Class definition
+    var SweetAlert2Demo = function() {
+
+        //== Demos
+        var initDemos = function() {
 
 
-        var readURL = function (input = ['file']) {
-            if (input.files && input.files[0]) {
-                var reader = new FileReader();
+            $('.m_sweetalert_demo_8').click(function(e) {
+                var delll = this;
+                swal({
+                    title: 'Are you sure?',
+                    text: "You won't Delete this account!",
+                    type: 'warning',
+                    showCancelButton: true,
+                    confirmButtonText: 'Yes, Delete it!',
+                    cancelButtonText: 'No, cancel!',
+                    reverseButtons: true
+                }).then(function(result){
+                    if (result.value) {
+                        swal(
+                            'Deleted!',
+                            'Your file has been Disabled.',
+                            'success',
 
-                reader.onload = function (e) {
-                    $('.pic1').attr('src', e.target.result);
-                };
-
-                reader.readAsDataURL(input.files[0]);
-            }
+                        )
+                        // result.dismiss can be 'cancel', 'overlay',
+                        // 'close', and 'timer'
+                    } else if (result.dismiss === 'cancel') {
+                        swal(
+                            'Cancelled',
+                            'Your imaginary file is safe :)',
+                            'error'
+                        )
+                    }
+                });
+            });
         };
 
-
-        $(".up1").on('change', function () {
-            readURL(this);
-        });
-
-
-    });
-
-    $(document).ready(function () {
-
-
-        var readURL = function (input = ['file']) {
-            if (input.files && input.files[0]) {
-                var reader = new FileReader();
-
-                reader.onload = function (e) {
-                    $('.pic2').attr('src', e.target.result);
-                };
-
-                reader.readAsDataURL(input.files[0]);
-            }
+        return {
+            //== Init
+            init: function() {
+                initDemos();
+            },
         };
+    }();
 
-
-        $(".up2").on('change', function () {
-            readURL(this);
-        });
-
-
-    });
-
-
-    $(document).ready(function () {
-
-
-        var readURL = function (input = ['file']) {
-            if (input.files && input.files[0]) {
-                var reader = new FileReader();
-
-                reader.onload = function (e) {
-                    $('.pic3').attr('src', e.target.result);
-                };
-
-                reader.readAsDataURL(input.files[0]);
-            }
-        };
-
-
-        $(".up3").on('change', function () {
-            readURL(this);
-        });
-
-
-    });
-
-
-    $(document).ready(function () {
-
-
-        var readURL = function (input = ['file']) {
-            if (input.files && input.files[0]) {
-                var reader = new FileReader();
-
-                reader.onload = function (e) {
-                    $('.pic4').attr('src', e.target.result);
-                };
-
-                reader.readAsDataURL(input.files[0]);
-            }
-        };
-
-
-        $(".up4").on('change', function () {
-            readURL(this);
-        });
-
+    //== Class Initialization
+    jQuery(document).ready(function() {
+        SweetAlert2Demo.init();
     });
 
 </script>
-<!--end::Page Vendors -->
 </body>
 
 <!-- end::Body -->
