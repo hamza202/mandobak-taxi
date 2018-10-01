@@ -133,3 +133,17 @@
     font-size: 11px;
 }
 /*Upload img End*/
+.m-timeline-3 .m-timeline-3__item:before{
+    left: 0;
+    height: 80%;
+    top: 0.36rem;
+}
+.m-timeline-3 .m-timeline-3__item .m-timeline-3__item-desc{
+    padding-left: 1rem;
+}
+.single-order .m-timeline-3 .m-timeline-3__item .m-timeline-3__item-desc .m-timeline-3__item-user-name .m-timeline-3__item-link{
+    font-size: 1rem;
+}
+.single-order .m-link.m-link--metal{
+    color: #a0a0a0;
+}
